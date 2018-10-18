@@ -1,4 +1,4 @@
--- sudoku.hs take care the state of sudoku.hs --
+-- sudoku.hs take care the state of sudoku.hs 
 -- It will focus whether the enter value restrict the rule of sudoku
 
 data State = State InternalState
